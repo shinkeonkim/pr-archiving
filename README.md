@@ -13,7 +13,7 @@
 npm install
 ```
 
-2. chrome 원격 디버깅 모드 실행
+2. chrome 원격 디버깅 모드 실행 후, Github 계정 로그인
 
 - Mac OS
 ```
