@@ -1,0 +1,17 @@
+{
+  "name": "pr-archiving",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shinkeonkim",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.4.0"
+  }
+}
