@@ -3,6 +3,9 @@
 > 특정 유저가 작성한 Repository의 Github PR 목록을 가져옵니다.
 > 각 PR 상세 페이지 및 files 페이지의 스크린샷을 저장합니다.
 
+- Load more… 를 통해 가려져 있는 코드 블럭을 열고 스크린샷을 제공합니다.
+- Show resolved 를 통해 resolve된 comment를 열고 스크린샷을 제공합니다.
+
 ## Usage
 
 1. npm package install
